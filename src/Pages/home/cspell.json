@@ -1,0 +1,5 @@
+{
+  "version": "0.2",
+  "ignoreRegExpList": ["\\B-webkit-[a-z-]+", "\\B-moz-[a-z-]+"],
+  "words": ["webkit", "moz", "cubic", "supabase"]
+}
